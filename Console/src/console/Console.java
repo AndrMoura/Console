@@ -18,4 +18,5 @@ public class Console {
         // TODO code application logic here
     }
     int a;
+    int b;
 }
